@@ -2,6 +2,7 @@ package randomGame;
 import java.util.Scanner;
 import java.util.Random; 
 public class randomGame {
+	//this is a new line
 
 	public static void main(String[] args) {
 		//Objective: make a game that lets people guess a number until they get it right
